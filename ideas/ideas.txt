@@ -1,0 +1,20 @@
+Ideas for covid 19 xray
+
+Dataset:
+
+Can we work on both CT -scan and xray dataset? 
+
+Methods:
+
+Deep learning, classification, regression etc are done. 
+
+
+
+Clustering only
+
+OR
+
+Building regression, classification, clustering, RNN, Cnn etc and say which one performed the best.
+
+What other novelty we can do in our project since many algorithms are used on this topic.
+
